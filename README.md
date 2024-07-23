@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Recepción de la Nueva Versión de Software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2" value="Receiving the New Software Version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="20" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Planificación de Pruebas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3" value="Test Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Preparación del Entorno de Pruebas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4" value="Test Environment Setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Ejecución de Pruebas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5" value="Test Execution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Revisión de Resultados de Pruebas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6" value="Test Results Review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="420" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Reporte de Defectos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7" value="Defect Reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Verificación de Correcciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8" value="Verification of Fixes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="620" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Aprobación Final" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9" value="Final Approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="720" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Documentación y Cierre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10" value="Documentation and Closure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="820" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11" edge="1" parent="1" source="2" target="3">
